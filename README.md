@@ -25,7 +25,7 @@ The dataset used for this project is publicly available on Kaggle:
 
 1. Clone this repository
 2. Open the notebook file (.ipynb) in Jupyter Notebook
-3. Ensure you have the required Python libraries installed:
+3. Ensure you have the required Python libraries installed: numpy, pandas, seaborn, matplotlib
 4. Make sure to download the data set from Kaggle
 5. Run the notebook cells sequentially to reproduce the analysis and visualizations.
 
